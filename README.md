@@ -4,7 +4,7 @@
 npm install verdaccio-gitlab-ci --save
 ```
 
-#Local Dev
+# Local Dev  
 
 ```bash
 npm install
