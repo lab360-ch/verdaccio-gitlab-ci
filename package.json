@@ -1,0 +1,31 @@
+{
+  "name": "verdaccio-gitlab-ci",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "verdaccio -l 0.0.0.0:4873 -c ./config.yaml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lab360-ch/verdaccio-gitlab-ci.git"
+  },
+  "author": "Ralf Brändli | LAB360 GmbH",
+  "license": "ISC",
+  "dependencies": {
+    "base64-min": "^2.0.0",
+    "got": "^8.3.0",
+    "verdaccio": "^2.7.4"
+  },
+  "keywords": [
+    "verdaccio",
+    "auth",
+    "plugin",
+    "gitlab"
+  ],
+  "devDependencies": {
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
