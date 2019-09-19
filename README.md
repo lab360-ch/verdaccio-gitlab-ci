@@ -10,6 +10,7 @@ auth:
     url: https://gitlab.com
     #url: https://privategitlab.example.com
 ```
+In gitlab, project -> settings -> repository ->  deploy-tokens
 
 # Local Dev  
 
