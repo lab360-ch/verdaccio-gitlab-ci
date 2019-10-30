@@ -1,8 +1,8 @@
 # Will not be maintained
 
-This was just a proof of concept for us and we're no longer using it.
-It will not be maintained by our team.
-Maybe someone else gets inspired and therefore it could be helpful.
+This was just a proof of concept for us and we're no longer using it.  
+It will not be maintained by our team.  
+Maybe someone else gets inspired and therefore it could be helpful.  
 
 # Install
 
