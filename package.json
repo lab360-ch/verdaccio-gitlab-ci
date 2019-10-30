@@ -15,7 +15,7 @@
   "dependencies": {
     "base64-min": "^2.0.0",
     "got": "^8.3.0",
-    "verdaccio": "^2.7.4"
+    "verdaccio": "^4.3.4"
   },
   "keywords": [
     "verdaccio",
